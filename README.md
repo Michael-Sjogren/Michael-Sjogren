@@ -8,7 +8,7 @@
 - 🧪  I often experiment with Godot 4 and explore new languages.
 
 - 🌱  I’m currently doing some advent of code puzzles with Zig.
-- 🔗  [portfolio] https://michael-sjogren.github.io/
+- 🔗  [webpage cv](https://michael-sjogren.github.io/)
 
 <!---
 Michael-Sjogren/Michael-Sjogren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

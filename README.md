@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Michael-Sjogren
-- 👀 I’m interested in Game Development with Godot and Web Development with Elm.
+- :briefcase: Currently Working @PiiGAB AB as Junior Software Developer
 
-- 🧪 I often experiment with Godot 4 and recently i have been working on a tank multiplayer game.
+- 👀 I’m interested in Game Development with Godot and Web Development with Elm and embedded software development.
 
-- 🌱 I’m currently learning about how networking and multiplayer works with Godot 4.
+- 🧪 I often experiment with Godot 4.
+
+- 🌱 I’m currently doing some advent of code puzzles with Zig.
 
 <!---
 Michael-Sjogren/Michael-Sjogren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

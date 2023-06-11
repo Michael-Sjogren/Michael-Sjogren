@@ -7,7 +7,7 @@
 
 - 🧪  I often experiment with Godot 4 and explore new languages.
 
-- 🌱  I’m currently doing some advent of code puzzles with Zig.
+- 🌱  I’m currently doing some advent of code puzzles with C++.
 - 🔗  [webpage cv](https://michael-sjogren.github.io/)
 
 <!---

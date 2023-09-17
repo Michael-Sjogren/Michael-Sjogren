@@ -7,7 +7,6 @@
 
 - 🧪  I often experiment with Godot 4 and explore new languages like Zig or Elm.
 
-- 🌱  I’m currently doing some advent of code puzzles with Zig.
 - 🔗  [webpage cv](https://michael-sjogren.github.io/)
 
 <!---

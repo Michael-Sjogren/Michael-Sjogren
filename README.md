@@ -7,7 +7,7 @@
 
 - 🧪  I often experiment with Godot 4 and explore new languages like Zig or Elm.
 
-- 🔗  [webpage cv](https://michael-sjogren.github.io/)
+- 🔗  [webpage cv](https://michael-sjogren.github.io/) make in elm.
 
 <!---
 Michael-Sjogren/Michael-Sjogren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
